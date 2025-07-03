@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bishwakumar.cin-company-database)
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bishwakumar.cin-company-database) -->
 
 # CIN Company Database Builder
 A Python tool to build a searchable database of Indian company records using CIN, Startup India APIs, and PostgreSQL.
