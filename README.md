@@ -1,3 +1,5 @@
+![Visitor Count](https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/bishwakumar/cin_company_db&style=flat)
+
 # CIN Company Database Builder
 
 > **Note:** This project can be especially useful for developers looking for an API-based solution to fetch company details using a Corporate Identification Number (CIN), until Startup India allows direct access.
@@ -219,12 +221,6 @@ CIN_API_URL = "https://api.startupindia.gov.in/sih/api/noauth/dpiit/services/cin
 
 ## Contributing
 
-Feel free to open issues or submit pull requests for improvements, bug fixes, or new features!
+Feel free to open issues or submit pull requests for improvements or bug fixes!
 
 ---
-
-## License
-
-MIT License
-
---- 
