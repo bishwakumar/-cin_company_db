@@ -1,4 +1,4 @@
-![Visitor Count](https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/bishwakumar/cin_company_db&style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bishwakumar.cin-company-database)
 
 # CIN Company Database Builder
 
